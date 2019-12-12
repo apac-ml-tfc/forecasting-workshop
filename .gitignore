@@ -2,3 +2,5 @@ data/
 results/
 **.pyc
 .ipynb_checkpoints
+
+**.zip
